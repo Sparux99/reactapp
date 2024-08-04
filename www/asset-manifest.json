@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42acad21.css",
+    "main.js": "/static/js/main.bcfa656a.js",
+    "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
+    "index.html": "/index.html",
+    "main.42acad21.css.map": "/static/css/main.42acad21.css.map",
+    "main.bcfa656a.js.map": "/static/js/main.bcfa656a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42acad21.css",
+    "static/js/main.bcfa656a.js"
+  ]
+}
